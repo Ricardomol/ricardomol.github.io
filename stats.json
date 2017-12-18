@@ -1,0 +1,48 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-01c3d5090c267dc2db06.js",
+      "component---src-pages-index-js-01c3d5090c267dc2db06.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-26e79615fa4f51da2c30.js",
+      "component---src-templates-blog-post-js-26e79615fa4f51da2c30.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-db0406bf3a81146512c1.js",
+      "component---src-layouts-index-js-db0406bf3a81146512c1.js.map"
+    ],
+    "path---index": [
+      "path---index-b21a1cbd3f0043c9132a.js",
+      "path---index-b21a1cbd3f0043c9132a.js.map"
+    ],
+    "commons": [
+      "commons-3f8cdb987559d31a3a4e.js",
+      "build-js-styles.css",
+      "commons-3f8cdb987559d31a3a4e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-1ffda505a6f4b7e06554.js",
+      "build-js-styles.css",
+      "app-1ffda505a6f4b7e06554.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---simple-note-taking-from-the-command-line": [
+      "path---simple-note-taking-from-the-command-line-9b55de335d53822c92c1.js",
+      "path---simple-note-taking-from-the-command-line-9b55de335d53822c92c1.js.map"
+    ]
+  }
+}

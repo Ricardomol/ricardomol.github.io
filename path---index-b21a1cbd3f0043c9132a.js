@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{476:function(e,t){e.exports={data:{site:{siteMetadata:{title:"I better remember this."}},allMarkdownRemark:{edges:[{node:{excerpt:"This is a simple function that can be called from the command line, just like if it was a regular command. It is a quick way of taking notes…",fields:{slug:"/simple-note-taking-from-the-command-line/"},frontmatter:{date:"30 September, 2017",title:"Simple note taking from the command line"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-b21a1cbd3f0043c9132a.js.map

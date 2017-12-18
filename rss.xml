@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[I better remember this.]]></title><description><![CDATA[I better remember the stuff I write here.]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 18 Dec 2017 17:12:13 GMT</lastBuildDate><item><title><![CDATA[Simple note taking from the command line]]></title><description><![CDATA[This is a simple function that can be called from the command line, just like if it was a regular command. It is a quick way of taking notes…]]></description><link>https://gatsbyjs.github.io/gatsby-starter-blog//simple-note-taking-from-the-command-line/</link><guid isPermaLink="false">https://gatsbyjs.github.io/gatsby-starter-blog//simple-note-taking-from-the-command-line/</guid><pubDate>Sat, 30 Sep 2017 21:07:37 GMT</pubDate><content:encoded>&lt;p&gt;This is a simple function that can be called from the command line, just like if it was a regular command. It is a quick way of taking notes and storing them in a text file.&lt;/p&gt;
+&lt;p&gt;Just add the following lines to your &lt;code&gt;~/.bashrc&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;# My function to take quick notes on useful commands
+notes() {
+    echo $1 &gt;&gt; $HOME/notes.md
+}&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;It can be used like this:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ notes &quot;my_command -which -I -want -to remember&quot;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;You can read your notes like this:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot;&gt;
+      &lt;pre class=&quot;language-none&quot;&gt;&lt;code&gt;$ more ~/notes.md&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;</content:encoded></item></channel></rss>
