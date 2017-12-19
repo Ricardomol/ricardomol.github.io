@@ -28,7 +28,7 @@ class Bio extends React.Component {
         />
         <p>
           Written by <strong>Ricardo Molina</strong> who lives and works in Madrid building useful things.{' '}
-          <a href="https://twitter.com/richas">
+          <a href="https://twitter.com/richas" target="_blank">
             You should follow him on Twitter
           </a>
         </p>
