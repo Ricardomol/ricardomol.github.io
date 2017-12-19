@@ -1,6 +1,7 @@
 ---
 title: Simple note taking from the command line
 date: "2017-09-30T21:07:37.145Z"
+tags: ["Shell"]
 ---
 
 This is a simple function that can be called from the command line, just like if it was a regular command. It is a quick way of taking notes and storing them in a text file.

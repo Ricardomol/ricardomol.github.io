@@ -1,6 +1,6 @@
 ---
 title: Javascript functional programming basic examples
-date: "2017-10-16T19:37:09:37.145Z"
+date: "2017-10-16T19:37:09.145Z" 
 tags: ["Javascript", "Functional Programming"]
 ---
 
