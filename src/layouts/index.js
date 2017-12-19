@@ -4,6 +4,8 @@ import { Container } from 'react-responsive-grid'
 
 import { rhythm, scale } from '../utils/typography'
 
+import './index.scss'
+
 class Template extends React.Component {
   render() {
     const { location, children } = this.props
